@@ -1,0 +1,18 @@
+.card{
+    border: 3px rgb(201, 66, 66) solid;
+    padding: 1em;
+    width: fit-content;
+    background-color: rgb(111, 159, 187);
+    width: 12em;
+    box-shadow: 9px 8px #9c343462;
+    border-radius: 20px;
+}
+h3{
+    color:rgb(201, 66, 66)
+    
+}
+img{
+    height: 100%;
+    width: 100%;
+    
+}
